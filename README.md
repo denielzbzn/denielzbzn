@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently looking for an opportunity to work as a Front-End developer
 - 🌱 I’m currently learning React / HTML / CSS / JS
-- 👯 I’m looking to collaborate on Front-End
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💻 This is my personal <a href="https://denielzbzn.github.io" class="menu-01">website</a> [still working on it]
 - 📫 How to reach me <a href="https://www.linkedin.com/in/danielbzn" class="menu-01">Linkedin</a>
 
