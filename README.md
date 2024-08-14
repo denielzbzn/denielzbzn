@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Front-End
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/danielbzn" class="menu-01">Linkedin</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/danielbzn" class="menu-01">Linkedin</a>
 
